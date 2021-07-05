@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Priyadharshini864/Portfolio.git/static/css/main.d3396d18.chunk.css",
+    "main.js": "/Priyadharshini864/Portfolio.git/static/js/main.b835f283.chunk.js",
+    "main.js.map": "/Priyadharshini864/Portfolio.git/static/js/main.b835f283.chunk.js.map",
+    "runtime-main.js": "/Priyadharshini864/Portfolio.git/static/js/runtime-main.8136d225.js",
+    "runtime-main.js.map": "/Priyadharshini864/Portfolio.git/static/js/runtime-main.8136d225.js.map",
+    "static/js/2.8bf20da3.chunk.js": "/Priyadharshini864/Portfolio.git/static/js/2.8bf20da3.chunk.js",
+    "static/js/2.8bf20da3.chunk.js.map": "/Priyadharshini864/Portfolio.git/static/js/2.8bf20da3.chunk.js.map",
+    "index.html": "/Priyadharshini864/Portfolio.git/index.html",
+    "static/css/main.d3396d18.chunk.css.map": "/Priyadharshini864/Portfolio.git/static/css/main.d3396d18.chunk.css.map",
+    "static/js/2.8bf20da3.chunk.js.LICENSE.txt": "/Priyadharshini864/Portfolio.git/static/js/2.8bf20da3.chunk.js.LICENSE.txt",
+    "static/media/Html_image.b7367500.png": "/Priyadharshini864/Portfolio.git/static/media/Html_image.b7367500.png",
+    "static/media/about_anime.3916ece8.gif": "/Priyadharshini864/Portfolio.git/static/media/about_anime.3916ece8.gif",
+    "static/media/about_vector.c42fe3db.png": "/Priyadharshini864/Portfolio.git/static/media/about_vector.c42fe3db.png",
+    "static/media/contact_anime.1f3936c4.png": "/Priyadharshini864/Portfolio.git/static/media/contact_anime.1f3936c4.png",
+    "static/media/home_anime.f372ef86.gif": "/Priyadharshini864/Portfolio.git/static/media/home_anime.f372ef86.gif",
+    "static/media/java_image.0b174dd8.png": "/Priyadharshini864/Portfolio.git/static/media/java_image.0b174dd8.png",
+    "static/media/javascript_image.bb990b35.png": "/Priyadharshini864/Portfolio.git/static/media/javascript_image.bb990b35.png",
+    "static/media/mongo_image.6ba2eea8.png": "/Priyadharshini864/Portfolio.git/static/media/mongo_image.6ba2eea8.png",
+    "static/media/react_image.109591ae.png": "/Priyadharshini864/Portfolio.git/static/media/react_image.109591ae.png",
+    "static/media/skills_vector.1fb5f4a4.png": "/Priyadharshini864/Portfolio.git/static/media/skills_vector.1fb5f4a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8136d225.js",
+    "static/js/2.8bf20da3.chunk.js",
+    "static/css/main.d3396d18.chunk.css",
+    "static/js/main.b835f283.chunk.js"
+  ]
+}
